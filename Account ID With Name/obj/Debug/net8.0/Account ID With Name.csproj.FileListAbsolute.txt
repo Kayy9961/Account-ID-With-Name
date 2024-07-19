@@ -1,0 +1,17 @@
+C:\Users\kayyc\source\repos\Account ID With Name\Account ID With Name\obj\Debug\net8.0\Account ID With Name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kayyc\source\repos\Account ID With Name\Account ID With Name\obj\Debug\net8.0\Account ID With Name.AssemblyInfoInputs.cache
+C:\Users\kayyc\source\repos\Account ID With Name\Account ID With Name\obj\Debug\net8.0\Account ID With Name.AssemblyInfo.cs
+C:\Users\kayyc\source\repos\Account ID With Name\Account ID With Name\obj\Debug\net8.0\Account ID With Name.csproj.CoreCompileInputs.cache
+C:\Users\kayyc\source\repos\Account ID With Name\Account ID With Name\bin\Debug\net8.0\Account ID With Name.exe
+C:\Users\kayyc\source\repos\Account ID With Name\Account ID With Name\bin\Debug\net8.0\Account ID With Name.deps.json
+C:\Users\kayyc\source\repos\Account ID With Name\Account ID With Name\bin\Debug\net8.0\Account ID With Name.runtimeconfig.json
+C:\Users\kayyc\source\repos\Account ID With Name\Account ID With Name\bin\Debug\net8.0\Account ID With Name.dll
+C:\Users\kayyc\source\repos\Account ID With Name\Account ID With Name\bin\Debug\net8.0\Account ID With Name.pdb
+C:\Users\kayyc\source\repos\Account ID With Name\Account ID With Name\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\kayyc\source\repos\Account ID With Name\Account ID With Name\obj\Debug\net8.0\Account ID With Name.csproj.AssemblyReference.cache
+C:\Users\kayyc\source\repos\Account ID With Name\Account ID With Name\obj\Debug\net8.0\Account .9AF6013F.Up2Date
+C:\Users\kayyc\source\repos\Account ID With Name\Account ID With Name\obj\Debug\net8.0\Account ID With Name.dll
+C:\Users\kayyc\source\repos\Account ID With Name\Account ID With Name\obj\Debug\net8.0\refint\Account ID With Name.dll
+C:\Users\kayyc\source\repos\Account ID With Name\Account ID With Name\obj\Debug\net8.0\Account ID With Name.pdb
+C:\Users\kayyc\source\repos\Account ID With Name\Account ID With Name\obj\Debug\net8.0\Account ID With Name.genruntimeconfig.cache
+C:\Users\kayyc\source\repos\Account ID With Name\Account ID With Name\obj\Debug\net8.0\ref\Account ID With Name.dll
